@@ -1,0 +1,2 @@
+defmodule ShopiQL do
+end
